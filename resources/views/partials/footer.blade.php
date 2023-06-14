@@ -1,5 +1,5 @@
 <footer>
 
-    <h3>footer</h3>
+    <h3>Have a Good Trip</h3>
 
 </footer>
