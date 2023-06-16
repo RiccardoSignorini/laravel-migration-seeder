@@ -15,6 +15,4 @@ use App\Http\Controllers\TrainController;
 |
 */
 
-Route::get('/', function () {
-    return view('pages.welcome');
-});
+Route::get('/', [TrainController::class, 'index']);

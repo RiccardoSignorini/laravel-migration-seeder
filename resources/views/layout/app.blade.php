@@ -7,7 +7,7 @@
     @vite('resources/js/app.js')
 </head>
 <body>
-    <div class="container text-center">
+    <div class="container">
         <!-- HEADER IN PARTIALS -->
         @include('partials.header')
         <!-- MAIN IN PARTIALS -->
